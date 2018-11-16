@@ -25,3 +25,6 @@ Striked Off - Somewhere else it has been overwritten
 display - inline - in same line
 block - next block
 We can control.
+
+
+MDN - For further read on any CSS Values.
