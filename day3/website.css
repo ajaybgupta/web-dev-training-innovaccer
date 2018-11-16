@@ -1,0 +1,25 @@
+h1{
+  color: red
+}
+
+h2{
+  color: yellow
+}
+
+h1#id1{
+  color:blue;
+  text-transform: capitalize;
+}
+
+.para{
+  color: violet;
+  margin: 100px 50px 10px 30px;
+  padding: 10px;
+  font-size: 22px
+}
+
+.square{
+  width: 200px;
+  height: 2000px;
+  background-color: red;
+}
